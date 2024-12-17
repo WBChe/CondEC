@@ -3,9 +3,8 @@ Conditional Equivalence Checking
 
 ### How to start
 
-    git clone https://github.com/arminbiere/aiger
+    git clone https://github.com/arminbiere/aiger.git
     cd aiger
-    ./setup.sh
     ./configure.sh && make
     cd ..
 
