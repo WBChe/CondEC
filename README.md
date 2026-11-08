@@ -7,7 +7,7 @@
 
 <h5 align="center"> 
 
-<a href="https://github.com/WBChe/CondEC"><img src="https://img.shields.io/badge/Paper-Link-red"></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/11751430"><img src="https://img.shields.io/badge/Paper-Link-red"></a>
 <a href='https://huggingface.co/collections/wbche/condec'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a>
 <a href="https://figshare.com/s/0d69d6d95527ecccfaa4"><img src="https://img.shields.io/badge/Result-Figshare-yellow"></a>
 
