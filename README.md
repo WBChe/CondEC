@@ -8,18 +8,8 @@
 <h5 align="center"> 
 
 <a href="https://github.com/WBChe/CondEC"><img src="https://img.shields.io/badge/Paper-Link-red"></a>
-<a href='https://huggingface.co/collections/wbche/condec'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'>
-<a href="https://figshare.com/s/0d69d6d95527ecccfaa4"><img src="https://img.shields.io/badge/Result-Figshare-yellow">
-
-
-[Wenbin Che](),
-[Changyuan Yu](),
-[Hongce Zhang]()<sup>✉️</sup>
-
-
-[The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
-
-<sup>✉️</sup>Corresponding Author
+<a href='https://huggingface.co/collections/wbche/condec'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue'></a>
+<a href="https://figshare.com/s/0d69d6d95527ecccfaa4"><img src="https://img.shields.io/badge/Result-Figshare-yellow"></a>
 
 </h5>
 </div>
@@ -95,13 +85,18 @@ abc -c "&r benchmarks/aig-and-output/*.aig; &cec -m;" # for one test
 ./test_abc-cec.sh # for all test
 ```
 
-
-<!-- ## Citation
+## Citation
 If you find this repository is useful, please star🌟 this repo and cite🖇️ our paper.
-
 ```bibtex
-WIP
-``` -->
+@inproceedings{che2026condec,
+  title={CondEC: Equivalence Checking Under Conditions},
+  author={Che, Wenbin and Yu, Changyuan and Zhang, Hongce},
+  booktitle={2026 International Symposium of Electronics Design Automation (ISEDA)},
+  pages={489--494},
+  year={2026},
+  organization={IEEE}
+}
+```
 
 ## Acknowledgment
 Our work is primarily based on the following codebases. We are sincerely grateful for their work.
